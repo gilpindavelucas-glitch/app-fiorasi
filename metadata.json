@@ -1,0 +1,5 @@
+{
+  "name": "Ford Fiorasi - Procesador Legal IA",
+  "description": "Una aplicación web avanzada para procesar documentos legales y de RRHH utilizando la API de Gemini. Permite analizar archivos, extraer datos clave, previsualizar resultados, exportar a Excel y gestionar un calendario de eventos. Incluye personalización completa de la interfaz.",
+  "requestFramePermissions": []
+}
